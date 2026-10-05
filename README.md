@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1700&color=A78BFA&center=true&vCenter=true&width=760&lines=Machine+Learning+%C2%B7+NLP+%C2%B7+Data+Science;Recommender+Systems+%C2%B7+Anomaly+Detection;LLM+Applications+%C2%B7+AI+Engineering;Research+%C2%B7+Experimentation+%C2%B7+Applied+AI" alt="Typing SVG"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/roshni-fareed1166">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42"/>
